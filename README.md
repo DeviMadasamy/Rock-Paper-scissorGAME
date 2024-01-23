@@ -1,2 +1,3 @@
 ﻿# Rock-Paper-scissorGAME
-<img src="./assets/game.png" alt="">
+![MasterHead](https://theholyones.io/wp-content/uploads/2023/02/rock-paper.jpg)
+
